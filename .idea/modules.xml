@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/kdvHesapla/kdvHesapla.iml" filepath="$PROJECT_DIR$/kdvHesapla/kdvHesapla.iml" />
       <module fileurl="file://$PROJECT_DIR$/notOrtalamasi/notOrtalamasi.iml" filepath="$PROJECT_DIR$/notOrtalamasi/notOrtalamasi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/patikaDevJava101.iml" filepath="$PROJECT_DIR$/.idea/patikaDevJava101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ucgenHesaplama/ucgenHesaplama.iml" filepath="$PROJECT_DIR$/ucgenHesaplama/ucgenHesaplama.iml" />
     </modules>
   </component>
 </project>
