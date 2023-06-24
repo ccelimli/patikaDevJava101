@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/greengrocer/greengrocer.iml" filepath="$PROJECT_DIR$/greengrocer/greengrocer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" filepath="$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/kdvHesapla/kdvHesapla.iml" filepath="$PROJECT_DIR$/kdvHesapla/kdvHesapla.iml" />
       <module fileurl="file://$PROJECT_DIR$/notOrtalamasi/notOrtalamasi.iml" filepath="$PROJECT_DIR$/notOrtalamasi/notOrtalamasi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/patikaDevJava101.iml" filepath="$PROJECT_DIR$/.idea/patikaDevJava101.iml" />
