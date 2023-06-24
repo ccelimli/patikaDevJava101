@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Login/Login.iml" filepath="$PROJECT_DIR$/Login/Login.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/greengrocer/greengrocer.iml" filepath="$PROJECT_DIR$/greengrocer/greengrocer.iml" />
       <module fileurl="file://$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" filepath="$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/kdvHesapla/kdvHesapla.iml" filepath="$PROJECT_DIR$/kdvHesapla/kdvHesapla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notHesaplama/notHesaplama.iml" filepath="$PROJECT_DIR$/notHesaplama/notHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/notOrtalamasi/notOrtalamasi.iml" filepath="$PROJECT_DIR$/notOrtalamasi/notOrtalamasi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/patikaDevJava101.iml" filepath="$PROJECT_DIR$/.idea/patikaDevJava101.iml" />
       <module fileurl="file://$PROJECT_DIR$/taximeter/taximeter.iml" filepath="$PROJECT_DIR$/taximeter/taximeter.iml" />
