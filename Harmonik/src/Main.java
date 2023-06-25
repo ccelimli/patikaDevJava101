@@ -13,5 +13,6 @@ public class Main {
             total+=(double) 1 / i;
         }
         System.out.println(total);
+
     }
 }
