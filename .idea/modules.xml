@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasamakHesaplama/BasamakHesaplama.iml" filepath="$PROJECT_DIR$/BasamakHesaplama/BasamakHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/CiftSayi/CiftSayi.iml" filepath="$PROJECT_DIR$/CiftSayi/CiftSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Do-While/Do-While.iml" filepath="$PROJECT_DIR$/Do-While/Do-While.iml" />
       <module fileurl="file://$PROJECT_DIR$/Harmonik/Harmonik.iml" filepath="$PROJECT_DIR$/Harmonik/Harmonik.iml" />

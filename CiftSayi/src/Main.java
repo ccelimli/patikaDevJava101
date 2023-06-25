@@ -1,8 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {
-    Integer number,total=0,average;
+    public static void main(String[] args) {    Integer number,total=0,average;
     Integer sayac=0;
     Scanner input= new Scanner(System.in);
 
