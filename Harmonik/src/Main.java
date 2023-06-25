@@ -6,13 +6,12 @@ public class Main {
         Integer sayi;
         Double total=0.0;
 
-        System.out.println("Sayi Gir: ");
+        System.out.println("Sayi Girin: ");
         sayi=input.nextInt();
 
         for (int i = 1; i<=sayi; i++){
             total+=(double) 1 / i;
         }
         System.out.println(total);
-
     }
 }
