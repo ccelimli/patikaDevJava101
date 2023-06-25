@@ -12,7 +12,6 @@ public class Main {
         for (int i = 1; i<=sayi; i++){
             total+=(double) 1 / i;
         }
-
         System.out.println(total);
     }
 }
