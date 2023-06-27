@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/KuvvetBulma/KuvvetBulma.iml" filepath="$PROJECT_DIR$/KuvvetBulma/KuvvetBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/Login/Login.iml" filepath="$PROJECT_DIR$/Login/Login.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinMax/MinMax.iml" filepath="$PROJECT_DIR$/MinMax/MinMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinMaxSorting/MinMaxSorting.iml" filepath="$PROJECT_DIR$/MinMaxSorting/MinMaxSorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" filepath="$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Palindrom/Palindrom.iml" filepath="$PROJECT_DIR$/Palindrom/Palindrom.iml" />
       <module fileurl="file://$PROJECT_DIR$/TersUcgen/TersUcgen.iml" filepath="$PROJECT_DIR$/TersUcgen/TersUcgen.iml" />
