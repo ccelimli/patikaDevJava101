@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/advancedCalculator/advancedCalculator.iml" filepath="$PROJECT_DIR$/advancedCalculator/advancedCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/boxingGame/boxingGame.iml" filepath="$PROJECT_DIR$/boxingGame/boxingGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/greengrocer/greengrocer.iml" filepath="$PROJECT_DIR$/greengrocer/greengrocer.iml" />
       <module fileurl="file://$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" filepath="$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/kdvHesapla/kdvHesapla.iml" filepath="$PROJECT_DIR$/kdvHesapla/kdvHesapla.iml" />
