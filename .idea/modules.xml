@@ -32,7 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/chineseZodiac/chineseZodiac.iml" filepath="$PROJECT_DIR$/chineseZodiac/chineseZodiac.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/greengrocer/greengrocer.iml" filepath="$PROJECT_DIR$/greengrocer/greengrocer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/matrixTranspose/guessNumber/guessNumber.iml" filepath="$PROJECT_DIR$/matrixTranspose/guessNumber/guessNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guessNumber/guessNumber.iml" filepath="$PROJECT_DIR$/guessNumber/guessNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" filepath="$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/horoscopeLearning/horoscopeLearning.iml" filepath="$PROJECT_DIR$/horoscopeLearning/horoscopeLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/kdvHesapla/kdvHesapla.iml" filepath="$PROJECT_DIR$/kdvHesapla/kdvHesapla.iml" />
@@ -41,6 +41,7 @@
       <module fileurl="file://$PROJECT_DIR$/maxMin/maxMin.iml" filepath="$PROJECT_DIR$/maxMin/maxMin.iml" />
       <module fileurl="file://$PROJECT_DIR$/notHesaplama/notHesaplama.iml" filepath="$PROJECT_DIR$/notHesaplama/notHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/notOrtalamasi/notOrtalamasi.iml" filepath="$PROJECT_DIR$/notOrtalamasi/notOrtalamasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/palindromeWords/palindromeWords.iml" filepath="$PROJECT_DIR$/palindromeWords/palindromeWords.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/patikaDevJava101.iml" filepath="$PROJECT_DIR$/.idea/patikaDevJava101.iml" />
       <module fileurl="file://$PROJECT_DIR$/recursiveFibonnaci/recursiveFibonnaci.iml" filepath="$PROJECT_DIR$/recursiveFibonnaci/recursiveFibonnaci.iml" />
       <module fileurl="file://$PROJECT_DIR$/recursiveLoop/recursiveLoop.iml" filepath="$PROJECT_DIR$/recursiveLoop/recursiveLoop.iml" />
