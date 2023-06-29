@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/Weather/Weather.iml" filepath="$PROJECT_DIR$/Weather/Weather.iml" />
       <module fileurl="file://$PROJECT_DIR$/WriteBWithArray/WriteBWithArray.iml" filepath="$PROJECT_DIR$/WriteBWithArray/WriteBWithArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/advancedCalculator/advancedCalculator.iml" filepath="$PROJECT_DIR$/advancedCalculator/advancedCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/airplaneTicket/airplaneTicket.iml" filepath="$PROJECT_DIR$/airplaneTicket/airplaneTicket.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrayFrekans/arrayFrekans.iml" filepath="$PROJECT_DIR$/arrayFrekans/arrayFrekans.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrayHarmonik/arrayHarmonik.iml" filepath="$PROJECT_DIR$/arrayHarmonik/arrayHarmonik.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrayMinSorting/arrayMinSorting.iml" filepath="$PROJECT_DIR$/arrayMinSorting/arrayMinSorting.iml" />
