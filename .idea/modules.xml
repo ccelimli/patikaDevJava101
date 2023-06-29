@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/Weather/Weather.iml" filepath="$PROJECT_DIR$/Weather/Weather.iml" />
       <module fileurl="file://$PROJECT_DIR$/WriteBWithArray/WriteBWithArray.iml" filepath="$PROJECT_DIR$/WriteBWithArray/WriteBWithArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/advancedCalculator/advancedCalculator.iml" filepath="$PROJECT_DIR$/advancedCalculator/advancedCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayFrekans/arrayFrekans.iml" filepath="$PROJECT_DIR$/arrayFrekans/arrayFrekans.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrayHarmonik/arrayHarmonik.iml" filepath="$PROJECT_DIR$/arrayHarmonik/arrayHarmonik.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrayMinSorting/arrayMinSorting.iml" filepath="$PROJECT_DIR$/arrayMinSorting/arrayMinSorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/boxingGame/boxingGame.iml" filepath="$PROJECT_DIR$/boxingGame/boxingGame.iml" />
@@ -30,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/greengrocer/greengrocer.iml" filepath="$PROJECT_DIR$/greengrocer/greengrocer.iml" />
       <module fileurl="file://$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" filepath="$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/horoscopeLearning/horoscopeLearning.iml" filepath="$PROJECT_DIR$/horoscopeLearning/horoscopeLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/kdvHesapla/kdvHesapla.iml" filepath="$PROJECT_DIR$/kdvHesapla/kdvHesapla.iml" />
       <module fileurl="file://$PROJECT_DIR$/maxMin/maxMin.iml" filepath="$PROJECT_DIR$/maxMin/maxMin.iml" />
       <module fileurl="file://$PROJECT_DIR$/notHesaplama/notHesaplama.iml" filepath="$PROJECT_DIR$/notHesaplama/notHesaplama.iml" />
