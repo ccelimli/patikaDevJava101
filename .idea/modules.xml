@@ -32,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/chineseZodiac/chineseZodiac.iml" filepath="$PROJECT_DIR$/chineseZodiac/chineseZodiac.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/greengrocer/greengrocer.iml" filepath="$PROJECT_DIR$/greengrocer/greengrocer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrixTranspose/guessNumber/guessNumber.iml" filepath="$PROJECT_DIR$/matrixTranspose/guessNumber/guessNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" filepath="$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/horoscopeLearning/horoscopeLearning.iml" filepath="$PROJECT_DIR$/horoscopeLearning/horoscopeLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/kdvHesapla/kdvHesapla.iml" filepath="$PROJECT_DIR$/kdvHesapla/kdvHesapla.iml" />
