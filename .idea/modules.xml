@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/Login/Login.iml" filepath="$PROJECT_DIR$/Login/Login.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinMax/MinMax.iml" filepath="$PROJECT_DIR$/MinMax/MinMax.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinMaxSorting/MinMaxSorting.iml" filepath="$PROJECT_DIR$/MinMaxSorting/MinMaxSorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MineSweeper/MineSweeper.iml" filepath="$PROJECT_DIR$/MineSweeper/MineSweeper.iml" />
       <module fileurl="file://$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" filepath="$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Palindrom/Palindrom.iml" filepath="$PROJECT_DIR$/Palindrom/Palindrom.iml" />
       <module fileurl="file://$PROJECT_DIR$/RepeatingEvenNumbers/RepeatingEvenNumbers.iml" filepath="$PROJECT_DIR$/RepeatingEvenNumbers/RepeatingEvenNumbers.iml" />
